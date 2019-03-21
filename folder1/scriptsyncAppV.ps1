@@ -1,1 +1,1 @@
-$process = get-process >output.log
+get-process >output.log
